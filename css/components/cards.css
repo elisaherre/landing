@@ -1,0 +1,58 @@
+
+.container-banner {
+  width: 900px;
+  margin: auto;
+}
+
+.container-banner h1 {
+  color: white;
+  margin-bottom: 0px;
+}
+
+.container-banner p {
+  color: white;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 200px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 5px rgb(230,230,230);
+  text-align: center;
+  padding: 15px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card p {
+  font-size: 14px;
+}
+
+.card h4 {
+  font-size: 18px;
+}
+
+.card img {
+  height: 120px;
+}
+
+.card img {
+  width: 150px;
+}
